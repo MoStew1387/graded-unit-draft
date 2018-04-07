@@ -5,6 +5,6 @@ class IndexController < ApplicationController
   def about
   end
 
-  def contact_us
+  def contact
   end
 end
